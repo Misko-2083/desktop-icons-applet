@@ -1,0 +1,11 @@
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Encoding=UTF-8
+Name=Desktop Icons
+Comment=Show and Hide desktop icons
+Icon=emblem-desktop
+X-XFCE-Module=dicons
+X-XFCE-Internal=true
+X-XFCE-Unique=false
+X-XFCE-API=2.0
+
