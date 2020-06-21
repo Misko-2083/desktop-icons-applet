@@ -11,6 +11,8 @@ Installation
 Depends: libxfce4panel-2.0 libxfconf-0
 
 ./autogen.sh
+
 make
+
 [sudo] make install
 
